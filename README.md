@@ -90,7 +90,7 @@ The portfolio showcases:
 ### Clone the Repository
 
 ```bash
-git clone [https://github.com/<your-username>/<repository-name>.git](https://github.com/VENKATESH-BANDARU/Portfolio.git)
+git clone https://github.com/VENKATESH-BANDARU/Portfolio.git
 ```
 
 ### Navigate to the Project
